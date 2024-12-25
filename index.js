@@ -5,7 +5,7 @@ let secondsBox = document.getElementById("seconds")
 
 console.log({days , hours , minutes, seconds})
 
-let countDownDate = new Date("Dec 31, 2021, 23:59:59").getTime();
+let countDownDate = new Date("Dec 31, 2024, 23:59:59").getTime();
 
 
 
